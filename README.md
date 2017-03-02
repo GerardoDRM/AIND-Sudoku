@@ -1,6 +1,13 @@
 # Artificial Intelligence Nanodegree
 ## Introductory Project: Diagonal Sudoku Solver
 
+
+This project shows basics of Artificial Intelligence topics such as:
+
+* Constraints propagation
+* Heuristics
+* Search algorithms (DFS)
+
 # Question 1 (Naked Twins)
 Q: How do we use constraint propagation to solve the naked twins problem?  
 A: We use constraint propagation on naked twins as follows:
